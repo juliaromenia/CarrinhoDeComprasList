@@ -39,6 +39,8 @@ public class CarrinhoDeCompras{
 
         carrinho.adicionarItem("Sabonete", 10.0, 4);
         carrinho.adicionarItem("Feijão", 8.50, 2);
+        carrinho.adicionarItem("Arroz", 4.50, 3);
+        carrinho.adicionarItem("Shampoo", 13.0, 1);
 
         carrinho.exibirItens();
 
